@@ -9,4 +9,4 @@ This folder contains all my solutions of **String-based DSA problems**.
 - *C++*
 
 ## Note
-This folder will be updated continuously with new problems and better solutions.
+This folder will be updated continuously with new problems and solutions.
