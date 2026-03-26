@@ -7,6 +7,7 @@ This folder contains my solutions of all *Array-based DSA problems*.
 - Majority element
 - Container with most water
 - Single Number
+- Find first and last position of element in Array
 
 ## Language Used
 - *C++*
