@@ -1,4 +1,4 @@
-// Problem: Find first and last position of element in Array
+// Problem:   
 // Platform: LeetCode
 // Time Complexity: O(n)
 // Space Complexity: O(1)
