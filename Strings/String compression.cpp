@@ -8,7 +8,8 @@ using namespace std;
 
 class Solution {
 public:
-    int compress(vector<char>& chars) {
+    int compress(vector<char>& chars) 
+    {
         
         int count = 1;
         vector <int> v;
