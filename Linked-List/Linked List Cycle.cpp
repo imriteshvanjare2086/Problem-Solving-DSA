@@ -1,7 +1,7 @@
 // Problem: Merge Two Sorted Lists
 // Platform: LeetCode
 // Time Complexity: O(n)
-// Space Complexity: O(n)  
+// Space Complexity: O(1)  
 
 
 //  Definition for singly-linked list.
