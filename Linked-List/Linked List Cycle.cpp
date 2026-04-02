@@ -1,4 +1,4 @@
-// Problem: Merge Two Sorted Lists
+// Problem: Linked list cycle
 // Platform: LeetCode
 // Time Complexity: O(n)
 // Space Complexity: O(1)  
