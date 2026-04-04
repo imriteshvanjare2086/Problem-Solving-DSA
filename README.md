@@ -3,8 +3,8 @@ This repo have all my DSA practise solved questions..
 
 ## Topics Covered
 
-- Arrays
-- Strings
+- Array
+- String
 - Linked List
 - Stack
 
