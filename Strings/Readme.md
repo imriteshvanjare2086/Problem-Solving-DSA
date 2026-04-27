@@ -6,6 +6,7 @@ This folder contains all my solutions of **String-based DSA problems**.
 - Longest substring without repeating characters.
 - Group Anagrams
 - String compression
+- Valid Plindrom
 
 ## Language Used
 - *C++*
