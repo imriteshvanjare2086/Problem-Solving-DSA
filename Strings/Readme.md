@@ -5,8 +5,8 @@ This folder contains all my solutions of **String-based DSA problems**.
 ## Topics Covered
 - Longest substring without repeating characters.
 - Group Anagrams
-- Valid Plindrom
 - String compression
+- Valid Plindrom
 
 ## Language Used
 - *C++*
