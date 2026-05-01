@@ -6,7 +6,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-class Solution {
+class Solution 
+{
 public:
     void moveZeroes(vector<int>& nums) 
     {
