@@ -5,8 +5,8 @@ This folder contains my solutions of all *Array-based DSA problems*.
 ## Topics Covered
 - Two Sum
 - Majority element
-- Container with most water
 - Single Number
+- Container with most water
 - Move zeroes
 - Find first and last position of element in Array
 
