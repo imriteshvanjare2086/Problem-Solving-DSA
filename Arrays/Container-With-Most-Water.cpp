@@ -22,9 +22,13 @@ public:
             maxWater = max(maxWater, area);
 
             if (height[l] < height[r])
+            {
                 l++;
+            }
             else
+            {
                 r--;
+            }
         }
         return maxWater;
     }
