@@ -7,6 +7,7 @@ This folder contains all my solutions of **String-based DSA problems**.
 - Group Anagrams
 - String compression
 - Valid Plindrom
+- Length of last word
 
 ## Language Used
 - *C++*
