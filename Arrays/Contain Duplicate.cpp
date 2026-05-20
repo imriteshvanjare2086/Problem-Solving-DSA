@@ -1,6 +1,6 @@
 // Problem: Contain Duplicate
 // Platform: LeetCode
-// Time Complexity: O(logn)
+// Time Complexity: O(nlogn)
 // Space Complexity: O(n)
 
 #include<bits/stdc++.h>
