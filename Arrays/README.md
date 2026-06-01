@@ -9,6 +9,7 @@ This folder contains my solutions of all *Array-based DSA problems*.
 - Container with most water
 - Move zeroes
 - Find first and last position of element in Array
+- Find K-or
 
 ## Language Used
 - *C++*
