@@ -10,6 +10,11 @@ This folder contains my solutions of all *Array-based DSA problems*.
 - Move zeroes
 - Find first and last position of element in Array
 - Find K-or
+- Diogonal sum
+- Contain duplicate
+- Contain Duplicate 2
+- Merge sorted array
+- longest consecutive sequence
 
 ## Language Used
 - *C++*

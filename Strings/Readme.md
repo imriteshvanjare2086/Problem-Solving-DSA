@@ -3,11 +3,15 @@
 This folder contains all my solutions of **String-based DSA problems**.
 
 ## Topics Covered
-- Longest substring without repeating characters.
+- Longest substring without Repeating characters.
 - Group Anagrams
 - String compression
-- Valid Plindrom
-- Length of last word
+- Valid Palindrom
+- Length of last Word
+- Max freq word
+- Reverse words in String
+- String Compression
+- Swap Vowel
 
 ## Language Used
 - *C++*
