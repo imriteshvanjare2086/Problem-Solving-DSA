@@ -9,7 +9,7 @@ This folder contains all my solutions of **String-based DSA problems**.
 - Valid Palindrom
 - Length of last Word
 - Max freq word
-- Reverse words in String
+- Reverse words in string
 - String Compression
 - Swap Vowel
 
