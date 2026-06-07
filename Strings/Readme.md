@@ -5,7 +5,7 @@ This folder contains all my solutions of **String-based DSA problems**.
 ## Topics Covered
 - Longest substring without Repeating characters.
 - Group Anagrams
-- String compression
+- String Compression
 - Valid Palindrom
 - Length of last Word
 - Max freq word
