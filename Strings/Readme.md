@@ -12,7 +12,7 @@ This folder contains all my solutions of **String-based DSA problems**.
 - Reverse words in string
 - String Compression
 - Swap Vowel
-- Longest common prefix
+- Longest common Prefix
 
 ## Language Used
 - *C++*
