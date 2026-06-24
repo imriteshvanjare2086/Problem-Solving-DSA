@@ -13,6 +13,7 @@ This folder contains all my solutions of **String-based DSA problems**.
 - String Compression
 - Swap Vowel
 - Longest common Prefix
+- Vowel Substring
 
 ## Language Used
 - *C++*
