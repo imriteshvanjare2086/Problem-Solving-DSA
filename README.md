@@ -5,8 +5,8 @@ This repo have all my DSA practise solved questions..
 
 - Array
 - String
-- Linked List
 - Stack
+- Linked List
 
 ## Language Used
 - **C++**
