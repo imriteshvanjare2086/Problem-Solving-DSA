@@ -15,6 +15,7 @@ This folder contains my solutions of all *Array-based DSA problems*.
 - Contain Duplicate 2
 - Merge sorted array
 - longest consecutive sequence
+- Intersection of array
 
 ## Language Used
 - *C++*
