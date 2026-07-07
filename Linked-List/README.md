@@ -6,6 +6,7 @@ This folder contains my solutions of all *Linked List DSA problems*.
 
 - Linked List Cycle
 - Merge two sorted list
+- Even-odd linked list
 
 ## Language Used
 - *C++*
