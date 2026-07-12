@@ -14,8 +14,8 @@ This folder contains all my solutions of **String-based DSA problems**.
 - Swap Vowel
 - Longest common Prefix
 - Vowel Substring
-- Find common word
 - Longest palindrom
+- Find common word
 
 ## Language Used
 - *C++*
