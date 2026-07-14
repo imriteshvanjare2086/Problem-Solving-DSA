@@ -7,6 +7,8 @@ This folder contains my solutions of all *Linked List DSA problems*.
 - Linked List Cycle
 - Even-odd linked list
 - Merge two sorted list
+- reverse ll ele
+- reverse ll
 
 ## Language Used
 - *C++*
