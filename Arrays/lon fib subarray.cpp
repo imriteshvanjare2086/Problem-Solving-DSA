@@ -1,26 +1,32 @@
-// Problem: Contain Duplicate
+// Problem: Length of Longest Fibonacci Subarray
 // Platform: LeetCode
-// Time Complexity: O(nlogn)
-// Space Complexity: O(n)
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
         int n = nums.size();
-        if (n < 3) return nums.size();
+
+        if (n < 3)
+            return n;
 
         int maxi = 0;
-        int curr = 2;  
+        int curr = 2;
 
         for (int i = 2; i < n; i++) {
-            if (nums[i] == nums[i-1] + nums[i-2]) {
+            if (nums[i] == nums[i - 1] + nums[i - 2]) {
                 curr++;
             } else {
-                curr = 2;  
+                curr = 2;
             }
+
             maxi = max(maxi, curr);
         }
 
-        return maxi >= 3 ? maxi : 2;
+        return (maxi >= 3) ? maxi : 2;
     }
 };
