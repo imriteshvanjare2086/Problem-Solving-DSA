@@ -15,8 +15,8 @@ This folder contains all my solutions of **String-based DSA problems**.
 - Longest common Prefix
 - Vowel Substring
 - Longest palindrom
-- Find common word
 - Word break
+- Find common word
 
 ## Language Used
 - *C++*
