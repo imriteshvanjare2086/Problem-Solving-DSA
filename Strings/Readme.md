@@ -16,6 +16,7 @@ This folder contains all my solutions of **String-based DSA problems**.
 - Vowel Substring
 - Longest palindrom
 - Find common word
+- Word break
 
 ## Language Used
 - *C++*
