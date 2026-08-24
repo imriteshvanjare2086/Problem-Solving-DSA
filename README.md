@@ -7,6 +7,7 @@ This repo have all my DSA practise solved questions..
 - String
 - Stack
 - Linked List
+- Dynamic programming
 
 ## Language Used
 - **C++**
