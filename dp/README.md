@@ -3,6 +3,6 @@
 - target sum
 - subsets
 - lcs
-- house robber
 - coin change
+- house robber
 - Subsets2
