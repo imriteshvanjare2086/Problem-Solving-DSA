@@ -5,9 +5,10 @@ This repo have all my DSA practise solved questions..
 
 - Array
 - String
-- Stack
 - Linked List
+- Stack
 - Dynamic programming
+- Tree
 
 ## Language Used
 - **C++**
