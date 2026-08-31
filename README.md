@@ -4,7 +4,7 @@ This repo have all my DSA practise solved questions..
 ## Topics Covered
 
 - Array
-- String
+- String  
 - Linked List
 - Stack
 - Dynamic programming
