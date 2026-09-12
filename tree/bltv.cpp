@@ -19,6 +19,7 @@ public:
         queue <TreeNode*> q;
         q.push(root);
         int ans;
+        
         while(!q.empty())
         {
             int s = q.size();
