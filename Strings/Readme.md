@@ -17,6 +17,7 @@ This folder contains all my solutions of **String-based DSA problems**.
 - Find common word
 - Longest palindrom
 - Word break
+- remove star from string
 
 ## Language Used
 - *C++*
