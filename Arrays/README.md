@@ -3,6 +3,7 @@
 This folder contains my solutions of all *Array-based DSA problems*.
 
 ## Topics Covered
+
 - Two Sum
 - Majority element
 - Single Number
